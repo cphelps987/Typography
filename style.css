@@ -1,0 +1,45 @@
+/*font-family
+
+font-size
+
+font-weight
+
+line-height
+*/
+
+body {
+	font-family: 'Slabo 27px', serif;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 1.4em;
+	display: block;
+	width: 760px;
+
+	}
+
+h1 {
+	font-family: 'Slabo 27px', serif;
+	font-family: 'Barrio', cursive;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 30px;
+	letter-spacing: 2px;
+	}
+	
+h3 {
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 30px;
+	}
+	
+.bold {
+	font-weight: bold;
+	}
+	
+.enlarge {
+	font-size:24px;
+	}
+	
+.height {
+	line-height:50px;
+	}
